@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+}
+
+.phone {
+  width: 40%;
+  height: 15%;
+  padding: 8px;
+  margin: 5px;
+}
+
+Container div {
+  margin: 5px;
+}
+ input{
+   margin: 5px;
+ }
